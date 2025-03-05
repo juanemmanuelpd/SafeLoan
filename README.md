@@ -35,8 +35,8 @@
 1. Create Loan - The lender enters their name, the amount to be loaned, the type of asset, and the number of months in which the debt must be repaid.
 2. View Loan - The borrower will see the loan offer created by the lender to verify that the information is correct.
 3. Accept Loan - Once the borrower verifies the information, they can accept the loan offer by entering their required personal information.
-4. View Borrower - The lender verifies the personal information provided by the borrower in order to have a backup of it on the blockchain in case of non-compliance within the agreed term or amount by the borrower.
-5. Confirm Loan - Once the lender carefully confirms all the information, they can proceed to confirm the loan between the two by writing "Yes" in the corresponding box. Once the loan has been confirmed, the lender will be sent the borrower's address on the Ethereum blockchain.
+4. View Borrower - The lender verifies the personal information provided by the borrower in order to have a backup of it on the blockchain in the event of default by the borrower within the agreed period or amount.
+5. Confirm Loan - Once the lender carefully verifies all the information, they can proceed to confirm the loan between the two by writing "Yes" in the corresponding box. Once the loan has been confirmed, the lender will be sent the borrower's address on the Ethereum blockchain.
 
 CODE IS LAW! 
    
