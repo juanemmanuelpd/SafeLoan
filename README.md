@@ -27,8 +27,9 @@
 2. Go to the "File explorer" tab and create a new file with the .sol extension in the "Contracts" folder
 3. Copy the SafeLoan.sol code and paste it into the .sol file you created
 4. Go to the "Solidity compiler" tab and select version 0.8.24
-5. Compile the code by pressing CTRL + S if you are on Windows, or COMMAND + S if you are on Mac OS
-6. If you have no errors, go to the "Deploy and run transactions" tab. In the "Environment" part select "Remix VM (Cancun)" and finally click on "Deploy" to deploy the smart contract.
+5. Change the value of the variable "address internal owner" to your address, which you can find in "Deploy and run transactions" > "Account".
+6. Compile the code by pressing CTRL + S if you are on Windows, or COMMAND + S if you are on Mac OS
+7. If you have no errors, go to the "Deploy and run transactions" tab. In the "Environment" part select "Remix VM (Cancun)" and finally click on "Deploy" to deploy the smart contract.
 
 ## How to use
 
