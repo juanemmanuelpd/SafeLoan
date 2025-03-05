@@ -8,7 +8,7 @@
 
 ⚠️ Disclaimer: The function of this smart contract is only to create a backup of the information of both users involved in the loan. In no way will any retention or deduction be made on the assets of either of them as a guarantee method. 
 
-# Features
+## Features
 
 * Create Loan - The lender deploys the contract and only the lender can create the loan for the borrower to use.
 * View Loan - The borrower accesses this contract to view the loan offer created by the lender.
